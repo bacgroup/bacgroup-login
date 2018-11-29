@@ -1,0 +1,19 @@
+{
+  "name": "bacgroup-login",
+  "version": "1.0.0",
+  "description": "Standard Login Bacgroup Apps",
+  "main": "bacgroup-login.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bacgroup/bacgroup-login.git"
+  },
+  "author": "Salvatore Trimarchi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bacgroup/bacgroup-login/issues"
+  },
+  "homepage": "https://github.com/bacgroup/bacgroup-login#readme"
+}
